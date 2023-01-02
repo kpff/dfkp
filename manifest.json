@@ -1,0 +1,16 @@
+{
+  "background_color": "#454545",
+  "description": "",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "kpff.github",
+  "orientation": "any",
+  "scope": "/fkp",
+  "short_name": "kpff.github",
+  "start_url": "/fkp",
+  "theme_color": "#454545",
+  "categories": [],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": []
+}
